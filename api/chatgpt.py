@@ -29,5 +29,5 @@ class ChatGPT:
     def add_msg(self, text):
         self.prompt.add_msg(text)
 
-    def aa():
+    def aa(self):
         return 1
